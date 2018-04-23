@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "849299420780",
+    "firebase_url": "https://lito-a6af4.firebaseio.com",
+    "project_id": "lito-a6af4",
+    "storage_bucket": "lito-a6af4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849299420780:android:fe0cffa67fee0bff",
+        "android_client_info": {
+          "package_name": "com.bitstudio.lito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849299420780-773te14ilpkmnkmae94p789oo1o9vhj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApz9157FcWBxl_ZLruawQDf0ZRR0cs_GQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
